@@ -4,6 +4,8 @@
 
 ***Author:** Joshua Dwight ([joshdwight101](https://github.com/joshdwight101))*
 
+![screenshot](screenshots/Screenshot%202026-04-07%20103118.png)
+
 *TermServ+ is an advanced, lightweight PowerShell application featuring a native C\# Windows Forms GUI designed to supercharge the standard Windows Remote Desktop Connection (MSTSC) experience. Built specifically for systems administrators, IT professionals, and enterprise environments, TermServ+ eliminates the friction of managing multiple server connections and repetitive authentication prompts.*
 
 *The application compiles entirely in-memory at runtime, requiring no complex installations, external dependencies, or executable binaries that might flag enterprise security software.*
@@ -57,3 +59,7 @@
 
 *Created by Joshua Dwight. Feel free to fork, contribute, and enhance your infrastructure management.*
 
+![screenshot](screenshots/Screenshot%202026-04-07%20103118.png)
+![screenshot](screenshots/Screenshot%202026-04-07%20103126.png)
+![screenshot](screenshots/Screenshot%202026-04-07%20103133.png)
+![screenshot](screenshots/Screenshot%202026-04-07%20103138.png)
